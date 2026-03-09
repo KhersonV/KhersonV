@@ -1,8 +1,4 @@
-## Hi there 👋
-
-<!--
-**KhersonV/KhersonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-# Hi, I'm Vladyslav 👋
+## Hi there! I'm Vladyslav 👋
 
 Junior Software Developer  
 Student at 42 Heilbronn Programming School
@@ -32,3 +28,7 @@ Russian – Native
 Ukrainian – Native  
 English – Good  
 German – B1
+
+
+<!--
+**KhersonV/KhersonV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
