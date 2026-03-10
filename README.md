@@ -16,9 +16,6 @@ TypeScript
 ### Web Game
 Multiplayer browser game with real-time updates.
 
-### React Applications
-Task management and frontend applications.
-
 ### System Programming
 C and C++ projects from 42 School.
 
