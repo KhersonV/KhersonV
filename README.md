@@ -90,6 +90,24 @@ Features:
 
 ---
 
+## 📈 Trading Bot
+Algorithmic trading bot for cryptocurrency markets.
+
+Features:
+
+• signal generation  
+• market analysis  
+• risk management  
+• automated trade execution  
+
+Tech:
+
+JavaScript  
+Node.js
+
+➡️ Demonstrates algorithmic logic and data-driven decision making.
+---
+
 # 🌍 Languages
 
 Russian — Native  
