@@ -14,7 +14,7 @@ Currently focused on **system programming, networking and full-stack web develop
 
 C  
 C++  
-Go
+Go  
 JavaScript  
 TypeScript  
 
@@ -111,10 +111,10 @@ Node.js
 
 # 🌍 Languages
 
-Russian — Native
-Ukrainian — Native
-English — B2
-German — B1
+Russian — Native,  
+Ukrainian — Native,  
+English — B2,  
+German — B1,  
 
 ---
 
